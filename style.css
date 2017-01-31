@@ -1,0 +1,33 @@
+body {
+  padding:25px 0;
+  }
+#carrousel{
+  position:relative;
+  height:210px;
+  width:370px;
+  margin: 0 auto;
+  border: solid 5px #efefef;
+}
+#carrousel .img {
+    position:absolute;
+    top:0;
+    left:0;
+}
+span {
+  color: #ec0000;
+  font-size: 30px;
+  font-weight:bold;
+}
+#nav1 {
+    position:absolute;
+    top:150px;
+    left:20px;
+      color: #ec0000;
+      font-size: 30px;
+      font-weight:bold;
+}
+#nav2 {
+    position:absolute;
+    top:150px;
+    left:335px;
+}
